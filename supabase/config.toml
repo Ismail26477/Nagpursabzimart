@@ -1,0 +1,7 @@
+project_id = "gtjsjhyxfwyetqygierk"
+
+[functions.mongodb-sync]
+verify_jwt = false
+
+[functions.mongodb-export]
+verify_jwt = false
