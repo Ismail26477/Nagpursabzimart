@@ -65,7 +65,7 @@ const OrderTracking: React.FC = () => {
             <h1 className="text-base font-bold text-foreground">Track Order</h1>
             <p className="text-[10px] text-muted-foreground">#{orderId}</p>
           </div>
-          <a href="tel:+919999999999" className="w-9 h-9 rounded-full bg-primary/10 flex items-center justify-center">
+          <a href="tel:+91 7020503794" className="w-9 h-9 rounded-full bg-primary/10 flex items-center justify-center">
             <Phone size={16} className="text-primary" />
           </a>
         </div>
